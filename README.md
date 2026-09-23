@@ -178,3 +178,4 @@ En la página de Releases puedes encontrar los paquetes disponibles para diferen
 Este proyecto utiliza la licencia **GPL-2.0**.
 
 Consulta los archivos de licencia incluidos en el repositorio y las condiciones del proyecto original antes de distribuir versiones modificadas.
+/
